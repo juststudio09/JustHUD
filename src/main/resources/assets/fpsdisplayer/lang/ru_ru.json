@@ -1,0 +1,47 @@
+{
+  "justhud.menu.title": "Настройки JustProject",
+  "justhud.menu.key_binds": "Настройки биндов",
+  "justhud.menu.visual_settings": "Визуальные настройки",
+  "justhud.menu.language": "Язык",
+  "justhud.menu.back": "Назад",
+  
+  "justhud.binds.title": "Настройки биндов клавиш",
+  "justhud.binds.add": "+ Добавить бинд",
+  "justhud.binds.key": "Клавиша",
+  "justhud.binds.command": "Команда",
+  "justhud.binds.action": "Действие",
+  "justhud.binds.delete": "Удалить",
+  "justhud.binds.count": "Биндов: %s",
+  "justhud.binds.listening": "Нажмите любую клавишу... (ESC для отмены)",
+  "justhud.binds.instructions": "Как использовать бинды:",
+  "justhud.binds.instruction1": "Нажмите кнопку клавиши и нажмите любую клавишу",
+  "justhud.binds.instruction2": "Введите команду в поле (без /)",
+  "justhud.binds.instruction3": "Нажмите ESC чтобы закрыть меню",
+  
+  "justhud.visual.title": "Визуальные настройки",
+  "justhud.visual.fps": "Показ FPS",
+  "justhud.visual.coordinates": "Координаты",
+  "justhud.visual.cps": "Показ CPS",
+  "justhud.visual.armor": "Показ брони",
+  "justhud.visual.entity_info": "Инфо о мобах",
+  "justhud.visual.armor_swap": "Свап брони",
+  "justhud.visual.swap_sound": "Звук свапа",
+  "justhud.visual.positions": "Редактор позиций (скоро)",
+  "justhud.visual.reset": "Сбросить позиции",
+  "justhud.visual.config_info": "Расширенные настройки в: config/justhud.toml",
+  
+  "justhud.language.title": "Выбор языка",
+  "justhud.language.english": "Английский",
+  "justhud.language.russian": "Русский",
+  
+  "justhud.status.on": "ВКЛ",
+  "justhud.status.off": "ВЫКЛ",
+  
+  "justhud.armor.swap_hint": "ПКМ чтобы сменить %s",
+  "justhud.armor.swap_success": "✓ Сменил %s",
+  "justhud.armor.helmet": "шлем",
+  "justhud.armor.chestplate": "нагрудник",
+  "justhud.armor.leggings": "поножи",
+  "justhud.armor.boots": "ботинки",
+  "justhud.armor.elytra": "элитры"
+}

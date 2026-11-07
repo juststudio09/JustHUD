@@ -1,0 +1,47 @@
+{
+  "justhud.menu.title": "JustProject Settings",
+  "justhud.menu.key_binds": "Key Bind Settings",
+  "justhud.menu.visual_settings": "Visual Settings",
+  "justhud.menu.language": "Language",
+  "justhud.menu.back": "Back",
+  
+  "justhud.binds.title": "Key Bind Settings",
+  "justhud.binds.add": "+ Add Bind",
+  "justhud.binds.key": "Key",
+  "justhud.binds.command": "Command",
+  "justhud.binds.action": "Action",
+  "justhud.binds.delete": "Delete",
+  "justhud.binds.count": "Binds: %s",
+  "justhud.binds.listening": "Press any key... (ESC to cancel)",
+  "justhud.binds.instructions": "How to use binds:",
+  "justhud.binds.instruction1": "Click Key button and press any key",
+  "justhud.binds.instruction2": "Type command in the field (without /)",
+  "justhud.binds.instruction3": "Press ESC to close menu",
+  
+  "justhud.visual.title": "Visual Settings",
+  "justhud.visual.fps": "FPS Display: %s",
+  "justhud.visual.coordinates": "Coordinates: %s",
+  "justhud.visual.cps": "CPS Display: %s",
+  "justhud.visual.armor": "Armor Display: %s",
+  "justhud.visual.entity_info": "Entity Info: %s",
+  "justhud.visual.armor_swap": "Armor Swap: %s",
+  "justhud.visual.swap_sound": "Swap Sound: %s",
+  "justhud.visual.positions": "Edit Positions (Coming Soon)",
+  "justhud.visual.reset": "Reset All Positions",
+  "justhud.visual.config_info": "Advanced settings in: config/justhud.toml",
+  
+  "justhud.language.title": "Language Selection",
+  "justhud.language.english": "English",
+  "justhud.language.russian": "Russian",
+  
+  "justhud.status.on": "ON",
+  "justhud.status.off": "OFF",
+  
+  "justhud.armor.swap_hint": "Right-click to swap %s",
+  "justhud.armor.swap_success": "✓ Swapped %s",
+  "justhud.armor.helmet": "helmet",
+  "justhud.armor.chestplate": "chestplate",
+  "justhud.armor.leggings": "leggings",
+  "justhud.armor.boots": "boots",
+  "justhud.armor.elytra": "elytra"
+}

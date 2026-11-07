@@ -1,0 +1,69 @@
+modLoader = "javafml"
+loaderVersion = "[61,)"
+license = "MIT"
+
+[[mods]]
+modId = "justhud"
+version = "1.0.0"
+displayName = "§bJustHUD §8| §fJust Studio"
+authors = "Just Studio"
+logoFile = "justhud_logo.png"
+
+description = """
+§b§l╔══════════════════════════════════════╗
+§b§l          JUST STUDIO
+§b§l╚══════════════════════════════════════╝
+
+§fJustHUD §7— настраиваемый игровой интерфейс
+§7для Minecraft от команды §bJust Studio§7.
+
+§b§l◆ ВОЗМОЖНОСТИ
+
+§f  • §7Отображение FPS
+§f  • §7Отображение CPS
+§f  • §7Координаты игрока
+§f  • §7Прочность брони
+§f  • §7Информация о существах
+§f  • §7Отображение нажатий клавиш
+§f  • §7Пользовательские бинды
+
+§b§l◆ УПРАВЛЕНИЕ
+
+§f  • §7Настройки через меню Minecraft
+§f  • §7Управление биндами
+§f  • §7Дополнительная конфигурация через файл
+
+§b§l◆ КОНФИГУРАЦИЯ
+
+§7Файл настроек:
+§bconfig/justhud.toml
+
+§7Цвета и расположение элементов HUD
+§7настраиваются через конфигурационный файл.
+
+§b§l◆ ИНФОРМАЦИЯ
+
+§f  Разработчик: §bJust Studio
+§f  Продукт: §bJustHUD
+§f  Версия: §b1.0.0
+§f  Лицензия: §bMIT
+
+§8━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+§b              JUST STUDIO
+§7          DIGITAL DEVELOPMENT
+§8━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+"""
+
+[[dependencies.justhud]]
+modId = "forge"
+mandatory = true
+versionRange = "[61,)"
+ordering = "NONE"
+side = "CLIENT"
+
+[[dependencies.justhud]]
+modId = "minecraft"
+mandatory = true
+versionRange = "[1.21.11,1.21.12)"
+ordering = "NONE"
+side = "CLIENT"
